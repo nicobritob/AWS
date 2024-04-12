@@ -5,7 +5,7 @@ Bienvenido a esta mini demo de Amazon Quicksight, en cual podemos analizar data 
 
 Aqui podras ver mi review. https://youtu.be/5S50JqOOK7I
 
-[![](https://markdown-videos.deta.dev/youtube/5S50JqOOK7I)](https://youtu.be/5S50JqOOK7I)
+[![](https://markdown-videos.deta.dev/youtube/5S50JqOOK7I)](https://youtu.be/5S50JqOOK7I?si=fZ3uwL83vFVvRkxW)
 
 
 - Data restaurant
